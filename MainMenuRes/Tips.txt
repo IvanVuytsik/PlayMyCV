@@ -1,0 +1,14 @@
+                                        Hi! My name is Ivan.
+
+                   I made my CV a bit more interactive using Python.
+                It provides all typical CV information in a game form.
+
+              There is a couple of hotkeys that you might want to use:
+                         key_o - on/off full screen mode
+                         key_f - on/off battle map indicators
+
+              This project uses some assets under a free use license.
+                 A comprehensive list will be available on my GitHub:
+                        https://github.com/IvanVuytsik/PlayMyCV
+
+                                            Enjoy your quest!
