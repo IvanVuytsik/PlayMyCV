@@ -1,4 +1,4 @@
-This is PlayMyCv project. It uses some resources unde a fee-to-use license and products of people who gave a permission to use their work in this project. 
+This is PlayMyCv project. It uses some resources under a free-to-use license and products of people who gave a permission to use their work in this project. 
 
 The list may not be 100% accurate, so please get in touch if you think something or someone must be added.
 
@@ -23,7 +23,7 @@ https://freesound.org/
 Lok Du
 https://www.artstation.com/artwork/DxdRgy
 
-2. A few icons and acursor:
+2. A few icons and a cursor:
 https://opengameart.org/
 https://itch.io/
 
